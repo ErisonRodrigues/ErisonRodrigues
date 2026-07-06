@@ -143,14 +143,13 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 Coming Soon
-**Project Name**
+### 🔹 **RAG Pipeline Demo**
 
-Short description of what this project does and the problem it solves.
+RAG Pipeline with Java, Spring Boot & LangChain4j
 
-`Tech Stack` `Tags`
+`Java 17, Spring Boot 3.3, LangChain4j, Claude, AllMiniLmL6V2, vector DB, Apache PDFBox, LangChain4j Document Splitter` `Tags`
 
-[🔗 Repo](#) &nbsp;|&nbsp; [🚀 Live Demo](#)
+[🔗 [Repo](https://github.com/ErisonRodrigues/rag-pipeline-demo)](#) &nbsp;
 
 </td>
 <td width="50%" valign="top">
