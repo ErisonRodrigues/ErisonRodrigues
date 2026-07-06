@@ -131,33 +131,68 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Professional Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
 
-### 🔹 Tech Lead — **Virtusa | Fidelity**
-*May 2024 – Present | Westlake, TX*
+<div align="center">
 
-- Designed scalable solutions and presented architecture proposals to technical leadership
-- Built POCs evaluating modern LLM-based developer tools for legacy system modernization
-- Led Spring Batch workflows, Azure integrations, and Oracle performance optimization
-- Leveraged GitHub Copilot and Claude API for accelerating development across the team
-- Mentored developers on best practices and responsible AI tooling in SDLC
+*🚧 Projects are being built and will be showcased here soon — stay tuned!*
 
-### 🔹 Tech Lead — **Virtusa | JPMorgan & Chase**
-*Jan 2022 – Apr 2024 | Plano, TX*
+</div>
 
-- Led 6-member development team with architectural guidance and code review standards
-- Delivered full-stack using Java, Spring Boot, Apache Kafka, Angular, and Oracle
-- Migrated applications from JPMC GAIA cloud to AWS with stable multi-environment deployments
-- Built RESTful services and developed scalable Angular components
-- Ensured high-quality delivery through rigorous testing and performance tuning
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔹 Technical Specialist — **CitiusTech Inc. | DaVita**
-*Sep 2019 – Dec 2021 | Nashville, TN*
+### 🔹 Coming Soon
+**Project Name**
 
-- Designed microservices using Spring Boot, Kafka, and GCP databases (Spanner, Cassandra)
-- Built and maintained REST API architecture for distributed systems
-- Developed batch jobs and Kafka producer/consumer flows for inter-service communication
-- Advised teams on microservices patterns and distributed system best practices
+Short description of what this project does and the problem it solves.
+
+`Tech Stack` `Tags`
+
+[🔗 Repo](#) &nbsp;|&nbsp; [🚀 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Coming Soon
+**Project Name**
+
+Short description of what this project does and the problem it solves.
+
+`Tech Stack` `Tags`
+
+[🔗 Repo](#) &nbsp;|&nbsp; [🚀 Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 Coming Soon
+**Project Name**
+
+Short description of what this project does and the problem it solves.
+
+`Tech Stack` `Tags`
+
+[🔗 Repo](#) &nbsp;|&nbsp; [🚀 Live Demo](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 Coming Soon
+**Project Name**
+
+Short description of what this project does and the problem it solves.
+
+`Tech Stack` `Tags`
+
+[🔗 Repo](#) &nbsp;|&nbsp; [🚀 Live Demo](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
