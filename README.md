@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/ErisonRodrigues">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Tech+Lead+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+AWS;Building+scalable+systems+with+AI-powered+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Tech+Lead+%7C+Java+%E2%80%A2+Spring+Boot;Full-Stack+Engineer+%7C+AWS;AI-Powered+Development" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
