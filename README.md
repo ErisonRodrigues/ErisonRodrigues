@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Erison Rodrigues&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Tech%20Lead%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=ErisonRodrigues&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Tech%20Lead%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/ErisonRodrigues">
