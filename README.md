@@ -3,11 +3,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=ErisonRodrigues&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Tech%20Lead%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Erison Rodrigues&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Tech%20Lead%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/ErisonRodrigues">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building%20enterprise-scale%20systems%20%7C%20Leading%20teams%20%7C%20Modernizing%20legacy%20applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Tech+Lead+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+AWS;Building+scalable+systems+with+AI-powered+engineering" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
